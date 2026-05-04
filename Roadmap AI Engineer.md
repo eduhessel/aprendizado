@@ -322,116 +322,6 @@ Software Engineer focado em IA
 
 ---
 
-# 📅 Plano diário — 30 dias
-
-## Semana 1
-- embeddings
-- chunking
-- cosine similarity
-- vector search
-
-## Semana 2
-- ChromaDB
-- indexação
-- retrieval
-- busca contextual
-
-## Semana 3
-- LangChain
-- retrievers
-- chains
-- memory
-
-## Semana 4
-- RAG completo
-- upload documentos
-- chat contextual
-- deploy
-
----
-
-# 📅 Plano diário — 30 dias
-
-## Semana 1
-- Next.js
-- App Router
-- Tailwind
-
-## Semana 2
-- chat UI
-- streaming
-- upload arquivos
-
-## Semana 3
-- autenticação
-- Supabase
-- banco dados
-
-## Semana 4
-- SaaS completo
-- landing page
-- deploy
-
----
-
-# 📅 Plano diário — 14 dias
-
-### Dia 1
-- Docker básico
-
-### Dia 2
-- containers
-
-### Dia 3
-- Dockerfile
-
-### Dia 4
-- Vercel deploy
-
-### Dia 5
-- Railway deploy
-
-### Dia 6
-- variáveis ambiente
-
-### Dia 7
-- logs
-
-### Dia 8
-- monitoramento
-
-### Dia 9
-- GitHub Actions
-
-### Dia 10
-- CI/CD básico
-
-### Dia 11
-- otimização deploy
-
-### Dia 12
-- segurança básica
-
-### Dia 13
-- revisão
-
-### Dia 14
-- deploy final
-
----
-
-# 🧪 Projeto da fase
-
-## Assistente Terminal IA
-
-### Funcionalidades
-- usuário digita pergunta
-- IA responde
-- salva histórico
-- usa API do Gemini/OpenAI
-
----
-
 # ✅ Resultado esperado
 
 Você deverá:
@@ -556,25 +446,6 @@ Aprender a usar modelos de IA generativa.
 
 ---
 
-# 📅 Plano diário — 21 dias
-
-## Semana 1
-- tools
-- memory
-- agentes simples
-
-## Semana 2
-- LangGraph
-- workflows
-- múltiplos agentes
-
-## Semana 3
-- agente completo
-- automação real
-- deploy
-
----
-
 # 🧪 Projetos da fase
 
 ## Chatbot IA
@@ -682,6 +553,34 @@ Aprender a conectar IA com dados reais.
 
 ---
 
+# 📅 Plano diário — 30 dias
+
+## Semana 1
+- embeddings
+- chunking
+- cosine similarity
+- vector search
+
+## Semana 2
+- ChromaDB
+- indexação
+- retrieval
+- busca contextual
+
+## Semana 3
+- LangChain
+- retrievers
+- chains
+- memory
+
+## Semana 4
+- RAG completo
+- upload documentos
+- chat contextual
+- deploy
+ 
+---
+
 # ✅ Resultado esperado
 
 Você deverá:
@@ -754,6 +653,25 @@ Criar sistemas autônomos com múltiplas etapas.
 
 ---
 
+# 📅 Plano diário — 21 dias
+
+## Semana 1
+- tools
+- memory
+- agentes simples
+
+## Semana 2
+- LangGraph
+- workflows
+- múltiplos agentes
+
+## Semana 3
+- agente completo
+- automação real
+- deploy
+
+---
+
 # 🧪 Projetos da fase
 
 ## Agente Pesquisador
@@ -773,6 +691,14 @@ Fluxo:
 ```txt
 gera copy → gera componentes → documenta → entrega
 ```
+
+## Assistente Terminal IA
+
+### Funcionalidades
+- usuário digita pergunta
+- IA responde
+- salva histórico
+- usa API do Gemini/OpenAI
 
 ---
 
@@ -855,6 +781,30 @@ Transformar IA em produto real.
 
 ---
 
+# 📅 Plano diário — 30 dias
+
+## Semana 1
+- Next.js
+- App Router
+- Tailwind
+
+## Semana 2
+- chat UI
+- streaming
+- upload arquivos
+
+## Semana 3
+- autenticação
+- Supabase
+- banco dados
+
+## Semana 4
+- SaaS completo
+- landing page
+- deploy
+
+---
+
 # 🧪 Projeto da fase
 
 ## SaaS IA completo
@@ -928,6 +878,52 @@ Aprender a colocar IA em produção.
 | Railway | Backend deploy |
 | Render | APIs |
 | GitHub Actions | CI/CD |
+
+---
+
+# 📅 Plano diário — 14 dias
+
+### Dia 1
+- Docker básico
+
+### Dia 2
+- containers
+
+### Dia 3
+- Dockerfile
+
+### Dia 4
+- Vercel deploy
+
+### Dia 5
+- Railway deploy
+
+### Dia 6
+- variáveis ambiente
+
+### Dia 7
+- logs
+
+### Dia 8
+- monitoramento
+
+### Dia 9
+- GitHub Actions
+
+### Dia 10
+- CI/CD básico
+
+### Dia 11
+- otimização deploy
+
+### Dia 12
+- segurança básica
+
+### Dia 13
+- revisão
+
+### Dia 14
+- deploy final
 
 ---
 
